@@ -26,9 +26,10 @@ To analyze the data, the tech_companies and design_companies are queried from th
 
 Firstly, the centroid of design companies and tech companies is found, afterwards we check if this location meets all the criteria. What we are sure of by now is that it will be close to design and tech companies.
 
-Secondly, Foursquare helps the study to find nearby venues, including restaurants, schools, Starbucks locations, etc. 
+Secondly, Foursquare helps the study to find nearby venues, including restaurants, schools, Starbucks locations, etc. We can observe that all the specified criteria is met in the chosen location. 
+
 
 ![Image](img/location.png)
 
 # Conclusion:
-The GeoSpatial Data Project involves finding the best location for a new office for a company in the gaming industry by analyzing several criteria. The project involves querying the database, using an API to obtain relevant data, and visualizing the data using the Folium library. The project offers several options to determine the best location, including querying existing companies, comparing cities, and looking for venues close by.
+The GeoSpatial Data Project involves finding the best location for a new office for a company in the gaming industry by analyzing several criteria. The project involves querying the database, using an API to obtain relevant data, and visualizing the data using the Folium library. The project offers several options to determine the best location, including querying existing companies, comparing cities, and looking for venues close by. In the end, the study finds suitable (although surely expensive) location for the new office. 
