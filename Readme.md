@@ -27,6 +27,7 @@ To analyze the data, the tech_companies and design_companies are queried from th
 Firstly, the centroid of design companies and tech companies is found, afterwards we check if this location meets all the criteria. What we are sure of by now is that it will be close to design and tech companies.
 
 Secondly, Foursquare helps the study to find nearby venues, including restaurants, schools, Starbucks locations, etc. We can observe that all the specified criteria is met in the chosen location. 
+The followinng map shows the ideal location of the office marked with a rocket, and the surrounding venues. 
 
 
 ![Image](img/location.png)
